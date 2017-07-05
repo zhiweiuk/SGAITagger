@@ -1,0 +1,58 @@
+Train on 58496 samples, validate on 3466 samples
+
+Epoch 1/5
+58432/58496 [============================>.] - ETA: 1s - loss: 1.5734 - sparse_categorical_accuracy: 0.9940
+processed 46462 tokens with 5581 phrases; found: 5537 phrases; correct: 4693.
+accuracy:  96.50%; precision:  84.76%; recall:  84.09%; FB1:  84.42
+              LOC: precision:  82.78%; recall:  91.68%; FB1:  87.00  1823
+             MISC: precision:  71.04%; recall:  71.86%; FB1:  71.45  701
+              ORG: precision:  84.72%; recall:  76.74%; FB1:  80.53  1499
+              PER: precision:  93.53%; recall:  89.22%; FB1:  91.33  1514
+
+
+58496/58496 [==============================] - 1041s - loss: 1.5727 - sparse_categorical_accuracy: 0.9940 - val_loss: 92.8893 - val_sparse_categorical_accuracy: 0.9957
+
+Epoch 2/5
+58432/58496 [============================>.] - ETA: 1s - loss: 0.5392 - sparse_categorical_accuracy: 0.9966
+processed 46462 tokens with 5581 phrases; found: 5526 phrases; correct: 4842.
+accuracy:  96.95%; precision:  87.62%; recall:  86.76%; FB1:  87.19
+              LOC: precision:  89.35%; recall:  92.22%; FB1:  90.76  1699
+             MISC: precision:  81.55%; recall:  72.73%; FB1:  76.89  618
+              ORG: precision:  82.24%; recall:  83.93%; FB1:  83.07  1689
+              PER: precision:  94.14%; recall:  90.17%; FB1:  92.11  1520
+
+
+58496/58496 [==============================] - 968s - loss: 0.5393 - sparse_categorical_accuracy: 0.9966 - val_loss: 75.0145 - val_sparse_categorical_accuracy: 0.9965
+
+Epoch 3/5
+58432/58496 [============================>.] - ETA: 1s - loss: 0.4799 - sparse_categorical_accuracy: 0.9964
+processed 46462 tokens with 5581 phrases; found: 5586 phrases; correct: 4905.
+accuracy:  97.18%; precision:  87.81%; recall:  87.89%; FB1:  87.85
+              LOC: precision:  91.25%; recall:  91.86%; FB1:  91.55  1657
+             MISC: precision:  77.86%; recall:  73.59%; FB1:  75.67  655
+              ORG: precision:  82.78%; recall:  85.98%; FB1:  84.35  1719
+              PER: precision:  93.89%; recall:  92.00%; FB1:  92.93  1555
+
+
+58496/58496 [==============================] - 1044s - loss: 0.4800 - sparse_categorical_accuracy: 0.9964 - val_loss: 79.1173 - val_sparse_categorical_accuracy: 0.9967
+
+Epoch 4/5
+58432/58496 [============================>.] - ETA: 1s - loss: 0.4428 - sparse_categorical_accuracy: 0.9962
+processed 46462 tokens with 5581 phrases; found: 5489 phrases; correct: 4816.
+accuracy:  97.07%; precision:  87.74%; recall:  86.29%; FB1:  87.01
+              LOC: precision:  85.99%; recall:  92.83%; FB1:  89.28  1777
+             MISC: precision:  78.59%; recall:  72.58%; FB1:  75.47  640
+              ORG: precision:  88.13%; recall:  79.82%; FB1:  83.77  1499
+              PER: precision:  93.07%; recall:  92.25%; FB1:  92.66  1573
+
+
+58496/58496 [==============================] - 1091s - loss: 0.4426 - sparse_categorical_accuracy: 0.9962 - val_loss: 84.7820 - val_sparse_categorical_accuracy: 0.9967
+
+Epoch 5/5
+58432/58496 [============================>.] - ETA: 1s - loss: 0.4205 - sparse_categorical_accuracy: 0.9958
+processed 46462 tokens with 5581 phrases; found: 5524 phrases; correct: 4885.
+accuracy:  97.21%; precision:  88.43%; recall:  87.53%; FB1:  87.98
+              LOC: precision:  90.39%; recall:  91.98%; FB1:  91.18  1675
+             MISC: precision:  78.79%; recall:  73.45%; FB1:  76.03  646
+              ORG: precision:  84.28%; recall:  84.23%; FB1:  84.26  1654
+              PER: precision:  94.77%; recall:  92.50%; FB1:  93.62  1549
