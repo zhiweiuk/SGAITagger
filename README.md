@@ -66,12 +66,3 @@ The relevant CoNLL Datasets (English) are included by default
 
 The CoNLL 2003 datasets are closed, and are only distributed with this repo when a paper is being reviewed (as and when needed). 
 
-### License 
-
----
-
-This **code is closed source** until results are published - sorry! Please **do not fork, publish or distribute in anyway** without written permission from the AI Group, Ulster University. Please email for more information:
-
-  - hampton-p1 [at] ulster.ac.uk
-  - z.lin [at] ulster.ac.uk
-  - h.wang [at] ulster.ac.uk
