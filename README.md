@@ -66,7 +66,7 @@ The relevant CoNLL Datasets (English) are included by default
 
 The CoNLL 2003 datasets are closed, and are only distributed with this repo when a paper is being reviewed (as and when needed). 
 
-###Cite this paper as:
+### Cite this paper as:
 
 Hampton P.J., Wang H., Lin Z. (2017) Knowledge Transfer in Neural Language Models. In: Bramer M., Petridis M. (eds) Artificial Intelligence XXXIV. SGAI 2017. Lecture Notes in Computer Science, vol 10630. Springer.
 
